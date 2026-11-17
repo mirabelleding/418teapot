@@ -3,7 +3,7 @@
 ```
 "pot monologue":(
     {
-        "the metaphysics of the possible of the commencement": (
+        "metaphysics of the possible of the commencement": (
                 "... not having been able to have been, "
                 "as it would have been had it been possible "
                 'for it to have been ..."
@@ -11,8 +11,14 @@
 
         "paradox": (
             "... became charged with deficiencies in "
-            "the embodiment of ethos and ideology of "
+            "the embodiment of the ethos and ideology of "
             "'knowledge-sharingism' ..."
+        ),
+
+        "retrospection": (
+            "I must confess, I had not previously contemplated "
+            "the possibility that the possible of such a possibility "
+            "could itself have been possible."
         ),
 
         "verdict": (
@@ -31,6 +37,14 @@
             “entitled one, constitutes a rather remarkable ”
             “concurrence of ignorance, arrogance, and ”
             “entitlement.”
+        ),
+
+        "id est": (
+            "Goodwill may be presumed; trust must be substantiated."
+        ),
+
+        "aphorism":(
+            "Attainability is no testament to worth."
         ),
     },
 
