@@ -86,7 +86,7 @@ The individual becomes increasingly confident precisely because contradictory in
 
 **Certainty is preserved not through the examination of evidence, but through the rejection of whatever threatens it.**
 
-The resulting worldview may be internally consistent while remaining fundamentally disconnected from reality.
+The resulting *weltanschauung* may be internally consistent while remaining fundamentally disconnected from reality.
 
 ## VI. The Perpetual Pursuit of Ideal Conditions
 
