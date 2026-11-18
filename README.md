@@ -4,10 +4,10 @@
 "pot monologue":(
     {
         "metaphysics of the possible of the commencement": (
-                "... not having been able to have been, "
-                "as it would have been had it been possible "
-                'for it to have been ..."
-            ),
+            "... not having been able to have been, "
+            "as it would have been had it been possible "
+            'for it to have been ..."
+        ),
 
         "paradox": (
             "... became charged with deficiencies in "
@@ -16,9 +16,10 @@
         ),
 
         "retrospection": (
-            "I must confess, I had not previously contemplated "
-            "the possibility that the possible of such a possibility "
-            "could itself have been possible."
+            "I must confess, I had not previously "
+            "contemplated the possibility that the "
+            "possible of such a possibility could "
+            "itself have been possible."
         ),
 
         "verdict": (
@@ -32,7 +33,7 @@
             ”remain beyond one’s own apprehension, “
             ”nevertheless regard as owed the deference “
             ”to which such superiority, had it existed “
-            otherwise than in the presumption of the one ”
+            "otherwise than in the presumption of the one ”
             “by whom it is presumed to exist, might have ”
             “entitled one, constitutes a rather remarkable ”
             “concurrence of ignorance, arrogance, and ”
